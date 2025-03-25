@@ -1,0 +1,24 @@
+[
+  {
+    "name": "NEUROPROTOCOL.CBD.2025",
+    "alias": "NEURO_GABRIELA",
+    "version": "v1.2",
+    "modules": [
+      "EEG AI",
+      "Wearable AI",
+      "E\u00b2PI"
+    ],
+    "priority": "MAX",
+    "status": "w toku"
+  },
+  {
+    "name": "Portfel Prodigy 2025",
+    "alias": "PORTFEL_2025",
+    "version": "v1.0",
+    "modules": [
+      "AI Signal Generator",
+      "AI Risk Management"
+    ],
+    "status": "zako\u0144czony \u2013 rebalans AI aktywny"
+  }
+]
