@@ -1,0 +1,26 @@
+{
+  "topics_active": [
+    "epilepsja u dziecka",
+    "AI w PDF",
+    "rekonstrukcja portfela inwestycyjnego",
+    "dashboard czasu pracy",
+    "modu\u0142y GPT"
+  ],
+  "conversations_grouped": {
+    "NEURO": [
+      "neurofeedback",
+      "CBD",
+      "EEG",
+      "przedszkole"
+    ],
+    "INWESTYCJE": [
+      "RSI < 30",
+      "alerty AI",
+      "60/40 GPW-USA-Krypto"
+    ],
+    "BUDOWNICTWO": [
+      "Robot Structural",
+      "instalacje sanitarne AI"
+    ]
+  }
+}
