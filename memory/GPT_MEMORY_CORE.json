@@ -1,0 +1,28 @@
+{
+  "memory_modules": [
+    "NeuroProtocol.CBD.2025",
+    "Paszkowscy",
+    "Portfel_2025",
+    "JobsAI"
+  ],
+  "alias_map": {
+    "NEURO_GABRIELA": "Projekt neurologiczny dziecka",
+    "PASZKO_PRO": "Sygnatura systemowa",
+    "DASHBOARD_SYSTEM": "Jobs HyperControl vX.0"
+  },
+  "versioning": {
+    "memory_version": "v1.1",
+    "auto_update": true,
+    "update_source": "AutoEvolutionLoop\u2122"
+  },
+  "status_flags": {
+    "tasks_in_progress": [
+      "bajki terapeutyczne",
+      "dashboard",
+      "pitch deck"
+    ],
+    "projects_closed": [
+      "optymalizacja PDF Neuro"
+    ]
+  }
+}

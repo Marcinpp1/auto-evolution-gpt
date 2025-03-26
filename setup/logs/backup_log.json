@@ -3,3 +3,5 @@
 {"timestamp": "2025-03-26 10:01:43", "status": "\u2705", "details": "\ud83d\udcc2 Brak pami\u0119ci GPT do backupu."}
 {"timestamp": "2025-03-26 10:01:43", "status": "\u274c", "details": "[WinError 3] System nie mo\u017ce odnale\u017a\u0107 okre\u015blonej \u015bcie\u017cki: '/\u015bcie\u017cka/do/repo'"}
 {"timestamp": "2025-03-26 10:02:50", "status": "\u2705", "details": "\ud83d\udcc2 Brak pami\u0119ci GPT do backupu."}
+{"timestamp": "2025-03-26 10:02:59", "status": "\u274c", "details": "Command '['git', 'push', 'origin', 'main']' returned non-zero exit status 1."}
+{"timestamp": "2025-03-26 10:05:16", "status": "\u2705", "details": "\ud83d\udcc2 Brak pami\u0119ci GPT do backupu."}
