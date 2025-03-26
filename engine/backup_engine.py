@@ -3,7 +3,7 @@ import datetime
 import subprocess
 import json
 
-REPO_PATH = "/ścieżka/do/repo"  # <-- UZUPEŁNIJ
+REPO_PATH ="D:/!_GPT/1_Backupy/25-03-25/GPT_SYSTEM_RESTORE_POINT_FULL"
 BACKUP_FOLDER = "setup/backups"
 BRANCH = "main"
 GPT_MEMORY_PATH = "setup/gpt_memory/"
