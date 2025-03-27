@@ -1,0 +1,1 @@
+Zestaw danych do przywrócenia pełnej funkcjonalności systemu GPT PASZKO_PRO. Wygenerowano: 2025-03-27 11:42:13

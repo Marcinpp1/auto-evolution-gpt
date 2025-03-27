@@ -1,0 +1,3 @@
+Instrukcja przywracania systemu PASZKO_PRO | vΩ.ΩΩΩX
+1. Załaduj SYSTEM_MANIFEST.json
+2. Odtwórz USER_CONTEXT + PROFILE

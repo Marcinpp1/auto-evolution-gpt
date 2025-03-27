@@ -1,0 +1,6 @@
+@echo off
+cd /d %~dp0
+echo Generuję snapshot systemu GPT...
+python generate_gpt_system_snapshot.py
+echo Tworzę backup...
+python backup_engine.py

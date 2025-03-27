@@ -1,24 +1,214 @@
-[
-  {
-    "name": "NEUROPROTOCOL.CBD.2025",
-    "alias": "NEURO_GABRIELA",
-    "version": "v1.2",
-    "modules": [
-      "EEG AI",
-      "Wearable AI",
-      "E\u00b2PI"
-    ],
-    "priority": "MAX",
-    "status": "w toku"
-  },
-  {
-    "name": "Portfel Prodigy 2025",
-    "alias": "PORTFEL_2025",
-    "version": "v1.0",
-    "modules": [
-      "AI Signal Generator",
-      "AI Risk Management"
-    ],
-    "status": "zako\u0144czony \u2013 rebalans AI aktywny"
-  }
-]
+{
+  "projects": [
+    {
+      "project_id": "GPT_DRAFT",
+      "title": "Zapis roboczy: GPT",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:38:18.775961",
+      "files": [
+        "DRAFT_GPT.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "gpt"
+      ]
+    },
+    {
+      "project_id": "GABRYSIA_DRAFT",
+      "title": "Zapis roboczy: GABRYSIA",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:38:18.776210",
+      "files": [
+        "DRAFT_GABRYSIA.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "gabrysia"
+      ]
+    },
+    {
+      "project_id": "GIEŁDA I KRYPTO_DRAFT",
+      "title": "Zapis roboczy: GIEŁDA I KRYPTO",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:38:18.776467",
+      "files": [
+        "DRAFT_GIEŁDA_I_KRYPTO.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "giełda i krypto"
+      ]
+    },
+    {
+      "project_id": "SKLEP_DRAFT",
+      "title": "Zapis roboczy: Sklep",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:38:18.776903",
+      "files": [
+        "DRAFT_SKLEP.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "sklep"
+      ]
+    },
+    {
+      "project_id": "ZABAWA_DRAFT",
+      "title": "Zapis roboczy: ZABAWA",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:38:18.777215",
+      "files": [
+        "DRAFT_ZABAWA.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "zabawa"
+      ]
+    },
+    {
+      "project_id": "ASYSTENCI_DRAFT",
+      "title": "Zapis roboczy: ASYSTENCI",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:38:18.777668",
+      "files": [
+        "DRAFT_ASYSTENCI.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "asystenci"
+      ]
+    },
+    {
+      "project_id": "PROJEKTOWANIE_DRAFT",
+      "title": "Zapis roboczy: Projektowanie",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:38:18.777965",
+      "files": [
+        "DRAFT_PROJEKTOWANIE.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "projektowanie"
+      ]
+    },
+    {
+      "project_id": "GPT_DRAFT",
+      "title": "Zapis roboczy: GPT",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:41:36.154855",
+      "files": [
+        "DRAFT_GPT.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "gpt"
+      ]
+    },
+    {
+      "project_id": "GABRYSIA_DRAFT",
+      "title": "Zapis roboczy: GABRYSIA",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:41:36.155094",
+      "files": [
+        "DRAFT_GABRYSIA.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "gabrysia"
+      ]
+    },
+    {
+      "project_id": "GIEŁDA I KRYPTO_DRAFT",
+      "title": "Zapis roboczy: GIEŁDA I KRYPTO",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:41:36.155346",
+      "files": [
+        "DRAFT_GIEŁDA_I_KRYPTO.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "giełda i krypto"
+      ]
+    },
+    {
+      "project_id": "SKLEP_DRAFT",
+      "title": "Zapis roboczy: Sklep",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:41:36.155570",
+      "files": [
+        "DRAFT_SKLEP.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "sklep"
+      ]
+    },
+    {
+      "project_id": "ZABAWA_DRAFT",
+      "title": "Zapis roboczy: ZABAWA",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:41:36.155799",
+      "files": [
+        "DRAFT_ZABAWA.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "zabawa"
+      ]
+    },
+    {
+      "project_id": "ASYSTENCI_DRAFT",
+      "title": "Zapis roboczy: ASYSTENCI",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:41:36.156022",
+      "files": [
+        "DRAFT_ASYSTENCI.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "asystenci"
+      ]
+    },
+    {
+      "project_id": "PROJEKTOWANIE_DRAFT",
+      "title": "Zapis roboczy: Projektowanie",
+      "category": "projekty robocze GPT",
+      "status": "in-progress",
+      "created": "2025-03-27T11:41:36.156237",
+      "files": [
+        "DRAFT_PROJEKTOWANIE.md"
+      ],
+      "tags": [
+        "GPT",
+        "robocze",
+        "projektowanie"
+      ]
+    }
+  ]
+}

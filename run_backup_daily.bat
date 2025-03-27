@@ -1,4 +1,3 @@
 @echo off
 cd /d %~dp0
-echo 🕒 Codzienny AutoBackup GPT...
-python engine\backup_engine.py
+python backup_engine.py

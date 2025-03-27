@@ -1,0 +1,6 @@
+@echo off
+cd /d %~dp0
+echo [WEEKLY BACKUP] Generuję snapshot projektów roboczych...
+python generate_gpt_drafts_snapshot.py
+echo [WEEKLY BACKUP] Tworzę backup...
+python backup_engine.py

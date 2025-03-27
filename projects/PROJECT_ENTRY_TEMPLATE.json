@@ -1,0 +1,21 @@
+{
+  "project_id": "CBD_ANALYSIS_2025_Q1",
+  "title": "Analiza działania CBD i THCA w terapii Gabrysi – Q1 2025",
+  "category": "zdrowie / neuroprotokół / AI",
+  "priority": "HIGH",
+  "created": "2025-03-27T10:17:12.396590",
+  "author": "GPT (asystent PASZKO_PRO)",
+  "status": "active",
+  "description": "Raport AI dotyczący wpływu terapii CBD i THCA na profil napadowy, emocjonalność oraz neuroregulację u Gabrysi w I kwartale 2025.",
+  "tags": [
+    "CBD",
+    "THCA",
+    "neuroprotokół",
+    "Gabrysia",
+    "analiza AI"
+  ],
+  "files": [
+    "CBD_THCA_Q1_ANALYSIS.md",
+    "CBD_THCA_AI_CHARTS.pdf"
+  ]
+}
